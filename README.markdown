@@ -6,4 +6,4 @@ the fine viewers a means to learning the Git commands.
 
 You are watching Git Essentials
 
-All rights reserved.
+All rights reserved. March 2015
